@@ -46,7 +46,7 @@ CreditCard-Fraud-Detection/
 
 ## ▶️ How to Run Locally
 
-1️⃣ Clone the repository:
+ Clone the repository:
 ```bash
 git clone https://github.com/ParthCholera/CreditCard-Fraud-Detection.git
 cd CreditCard-Fraud-Detection
